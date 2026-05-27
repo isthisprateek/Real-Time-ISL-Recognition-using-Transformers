@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+logs
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset files
+dataset/
+dataset - Gesture Speech/
+data/
+*.csv
+*.zip
+*.h5
+*.pth
+*.pt
+*.ckpt
+
+# Model weights
+models/
+checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+IMPLEMENTATION_GUIDE.md
+PROJECT_SUMMARY.md
+notebooks
